@@ -1,16 +1,38 @@
-## Hi there 👋
+# Abrar Malik
+### Technical Program Manager | Data & Business Analytics | Telecommunications & 5G/RAN | AI/ML | Cybersecurity
 
-<!--
-**abrarmalik2000/abrarmalik2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Senior Technical Program Manager with 20+ years leading 
+complex telecom programs with global vednors like Nokia, 
+& Ericsson, across 6+ countries. Currently completing 
+**MMIS at Utah State University** (graduating December 2026) 
+with concentrations in Data Analytics and Cybersecurity. 
+Currently working on business projects in data analytics & 
+Cybersecurity at **Coalfire** building a purple team 
+dashboard for MITRE ATT&CK threat detection.
 
-Here are some ideas to get you started:
+## Current Projects
+- Coalfire Cybersecurity — Purple Team Dashboard
+- Lee's Marketplace Enterprise Analytics (Power BI/Azure SQL)
+- LIMINAL PANDA Threat Intelligence Research
+- ML-Based Network Intrusion Detection (UNSW-NB15)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**PM Tools:** Azure DevOps · Confluence
+**Data:** Power BI · PostgreSQL · Azure SQL · DuckDB  
+**Security:** YARA · Sigma · MITRE ATT&CK · FiGHT Framework  
+**Development:** Python · TypeScript · DuckDB · Prisma  
+**Cloud:** Microsoft Azure · AWS  
+
+## Education
+**M.S. Management Information Systems** — Utah State University (Dec 2026)  
+GPA: 4.0 | Concentrations: Data Analytics · Cybersecurity 
+
+## Experience
+Nokia · Ericsson · TEOCO  
+5G/RAN · AI/ML SON Optimization · Telecom Infrastructure  
+· USA · Middle East · Africa · Central Asia · Pakistan
+
+## Connect
+[LinkedIn Profile](https://www.linkedin.com/in/abrarmalik/)
