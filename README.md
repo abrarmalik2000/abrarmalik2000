@@ -2,8 +2,8 @@
 ### Technical Program Manager | Data & Business Analytics | Telecommunications & 5G/RAN | AI/ML | Cybersecurity
 
 ## About Me
-Senior Technical Program Manager with 20+ years leading 
-complex telecom programs with global vednors like Nokia, 
+Technical Program Manager with 20+ years leading complex 
+telecom programs with global vednors like Nokia, 
 & Ericsson, across 6+ countries. Currently completing 
 **MMIS at Utah State University** (graduating December 2026) 
 with concentrations in Data Analytics and Cybersecurity. 
