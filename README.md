@@ -16,6 +16,8 @@ dashboard for MITRE ATT&CK threat detection.
 - Lee's Marketplace Enterprise Analytics (Power BI/Azure SQL)
 - LIMINAL PANDA Threat Intelligence Research
 - ML-Based Network Intrusion Detection (UNSW-NB15)
+- Next Cloud Pi for Cloud Security & Administration
+- Pihole Sinkhole to block ads, tracking and urls
 
 ## Tech Stack
 
@@ -36,10 +38,15 @@ Nokia · Ericsson · TEOCO
 
 ## Project Links
 https://github.com/abrarmalik2000/Coalfire-Project
+
 https://github.com/abrarmalik2000/Lees-Marketplace-Analytics
+
 https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research
+
 https://github.com/abrarmalik2000/ml-network-intrusion-detection
+
 https://github.com/abrarmalik2000/NextCloudPi
+
 https://github.com/abrarmalik2000/pihole-dns-sinkhole
 
 ## Connect
