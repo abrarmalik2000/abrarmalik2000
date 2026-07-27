@@ -34,5 +34,13 @@ Nokia · Ericsson · TEOCO
 5G/RAN · AI/ML SON Optimization · Telecom Infrastructure  
 · USA · Middle East · Africa · Central Asia · Pakistan
 
+## Project Links
+https://github.com/abrarmalik2000/Coalfire-Project
+https://github.com/abrarmalik2000/Lees-Marketplace-Analytics
+https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research
+https://github.com/abrarmalik2000/ml-network-intrusion-detection
+https://github.com/abrarmalik2000/NextCloudPi
+https://github.com/abrarmalik2000/pihole-dns-sinkhole
+
 ## Connect
 [LinkedIn Profile](https://www.linkedin.com/in/abrarmalik/)
