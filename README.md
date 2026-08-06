@@ -8,42 +8,32 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 ## Projects
 
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
-**USU Analytics Solutions Center | 2025–2026**
+**USU Analytics Solutions Center | Jan 2026-Onwards**
 Enterprise Power BI dashboards connected to Microsoft
 Business Central API v2.0 and Azure SQL.
-`Power BI` `DAX` `Azure SQL` `Business Central API`
+`Power BI` `DAX` `Azure SQL` `Business Central` `API`
 
 ---
 
 ### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)
-**Coalfire Systems Internship | Jun–Aug 2026**
+**Coalfire Systems Project | May–Aug 2026**
 Full-stack security dashboard for purple team threat
 detection and deconfliction workflows.
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `MITRE ATT&CK`
 
 ---
 
-### [🕵️ LIMINAL PANDA Threat Intelligence](https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research)
-**Research Paper | Utah State University | 2026**
-First dual mapping of China-nexus APT to MITRE ATT&CK
-and FiGHT frameworks. Original YARA/Sigma detection rules.
-`YARA` `Sigma` `MITRE ATT&CK` `FiGHT` `Threat Intelligence`
-
----
-
 ### [🤖 ML Network Intrusion Detection](https://github.com/abrarmalik2000/ml-network-intrusion-detection)
 **Data Analytics | Utah State University | 2026**
-Binary classification for network intrusion detection
-using PyCaret on UNSW-NB15 benchmark dataset.
-`Python` `PyCaret` `scikit-learn` `pandas` `Jupyter`
+Binary classification for network intrusion detection using PyCaret on UNSW-NB15 benchmark dataset.
+`Python` `PyCaret` `pandas`
 
 ---
 
-### [🛡️ Pi-hole DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
-**Home Lab Security Project**
-Network-wide DNS sinkhole blocking malicious domains
-at DNS level using Raspberry Pi.
-`DNS` `Network Security` `Linux` `Raspberry Pi`
+### [🕵️ LIMINAL PANDA Threat Intelligence](https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research)
+**Research Paper | Utah State University | 2026**
+First dual mapping of China-nexus APT to MITRE ATT&CK and FiGHT frameworks. Original YARA/Sigma detection rules.
+`YARA` `Sigma` `MITRE ATT&CK` `FiGHT` `Threat Intelligence`
 
 ---
 
@@ -53,6 +43,13 @@ Self-hosted private cloud with SSL, 2FA,
 and full encryption on Raspberry Pi.
 `Linux` `Apache` `MariaDB` `SSL/TLS` `Self-Hosting`
 
+---
+
+### [🛡️ Pi-hole DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
+**Home Lab Security Project**
+Network-wide DNS sinkhole blocking malicious domains
+at DNS level using Raspberry Pi.
+`DNS` `Network Security` `Linux` `Raspberry Pi`
 
 ## Tech Stack
 
