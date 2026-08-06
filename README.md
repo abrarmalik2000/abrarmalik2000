@@ -1,5 +1,5 @@
 # Abrar Malik
-### Data & Business Analytics | Senior Manager | Telecommunications & 5G/RAN | AI/ML | Cybersecurity
+### Technology Strategy & Management | Data & Business Analytics | Telecommunications & 5G/RAN | AI/ML | Cybersecurity
 
 ## About Me
 Technology Manager & data analytics professional with 20+ years leading complex telecom programs with global vendors like Nokia, 
