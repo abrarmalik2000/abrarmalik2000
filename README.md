@@ -50,9 +50,13 @@ Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberr
 ## Tech Stack
 
 **Data:** Power BI · Tableau · PostgreSQL · Microsoft SQL · DuckDB
+---
 **PM Tools:** Azure DevOps · MS Project · Confluence
+---
 **Development:** Python · Prisma
+---
 **Cyber Security:** YARA · Sigma · MITRE ATT&CK · FiGHT Framework
+---
 **Cloud Fundamentals:** Microsoft Azure · AWS
 
 ## Education
