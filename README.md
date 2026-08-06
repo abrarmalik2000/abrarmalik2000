@@ -6,18 +6,12 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 & Ericsson across 6+ countries. Diverse expereince in Data & Business analytics delivering business insights and delivering value to leadership. Currently completing **MMIS at Utah State University** (graduating December 2026) with concentrations in Data Analytics and Cybersecurity. Currently working on business projects in data analytics & Cybersecurity at **Coalfire** building a dashboard to automate purple team engagements and developing Power BI dashboards for Lee's marketplace executive management for daily data insights.
 
 ## Current Projects
-- Coalfire Cybersecurity — Purple Team Dashboard
-  https://github.com/abrarmalik2000/Coalfire-Project
-- Lee's Marketplace Enterprise Analytics (Power BI/Azure SQL)
-  https://github.com/abrarmalik2000/Lees-Marketplace-Analytics
-- LIMINAL PANDA Threat Intelligence Research
-  https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research
-- ML-Based Network Intrusion Detection (UNSW-NB15)
-  https://github.com/abrarmalik2000/ml-network-intrusion-detection
-- Next Cloud Pi for Cloud Security & Administration
-  https://github.com/abrarmalik2000/NextCloudPi
-- Pihole Sinkhole to block ads, tracking and urls
-  https://github.com/abrarmalik2000/pihole-dns-sinkhole
+[Coalfire Cybersecurity — Purple Team Dashboard] (https://github.com/abrarmalik2000/Coalfire-Project)
+[Lee's Marketplace Enterprise Analytics (Power BI/Azure SQL)] (https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
+[LIMINAL PANDA Threat Intelligence Research] (https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research)
+[ML-Based Network Intrusion Detection (UNSW-NB15)] (https://github.com/abrarmalik2000/ml-network-intrusion-detection)
+[Next Cloud Pi for Cloud Security & Administration] (https://github.com/abrarmalik2000/NextCloudPi)
+[Pihole Sinkhole to block ads, tracking and urls] (https://github.com/abrarmalik2000/pihole-dns-sinkhole)
 
 ## Tech Stack
 
