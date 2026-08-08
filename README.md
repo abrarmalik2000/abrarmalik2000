@@ -17,7 +17,7 @@ Enterprise executive level Power BI dashboards connected to Microsoft Business C
 ## [:tokyo_tower: Network Insights Reporting Framework](https://github.com/abrarmalik2000/network-insights-reporting-framework/tree/main)
 
 Developed a comprehensive regional mobile network intelligence 
-reporting framework covering 10 analytical domains — from 
+reporting framework covering 11 analytical domains — from 
 network configuration baseline through executive investment 
 recommendations for mobile operators.
 
