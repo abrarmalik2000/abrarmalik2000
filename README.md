@@ -8,14 +8,14 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 ## Projects & Work Demos
 
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
-**Analytics Solutions Center**
+
 Enterprise executive level Power BI dashboards connected to Microsoft Business Central API v2.0 and Azure SQL. 
 `Power BI` `DAX` `Azure SQL` `Business Central` `API`
 
 ---
 
 ## [:tokyo_tower: Network Insights Reporting Framework](https://github.com/abrarmalik2000/network-insights-reporting-framework/tree/main)
-**International Mobile Operators & Vendors**
+
 Developed a comprehensive regional mobile network intelligence 
 reporting framework covering 10 analytical domains — from 
 network configuration baseline through executive investment 
@@ -24,7 +24,7 @@ recommendations for mobile operators.
 `Power BI` `GIS Mapping` `DPI Analytics` `AI & GPT Network Adoption` `Ookla Speedtest` `5G/4G/3G` 
 
 ### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)
-**Coalfire Systems**
+
 Full-stack security dashboard for purple team engagement threat detection and deconfliction workflows.
 `Azure Devops` `Next.js` `Prisma` `PostgreSQL` `MITRE ATT&CK`
 
@@ -37,28 +37,28 @@ Data Analytics for Ookla speed test samples to generate insights for causes of l
 ---
 
 ### [🤖 ML Network Intrusion Detection Analytics](https://github.com/abrarmalik2000/ml-network-intrusion-detection)
-**Data Analytics | 2026** 
+
 Binary classification for network intrusion detection using PyCaret on UNSW-NB15 benchmark dataset.
 `Python` `PyCaret` `pandas`
 
 ---
 
 ### [🕵️ LIMINAL PANDA Threat Intelligence](https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research)
-**Threat Intelligence Report | 2026**
+
 First dual mapping of China-nexus APT to MITRE ATT&CK and FiGHT frameworks. Original YARA/Sigma detection rules.
 `YARA` `Sigma` `MITRE ATT&CK & FiGHT` `Threat Intelligence`
 
 ---
 
 ### [☁️ Nextcloud](https://github.com/abrarmalik2000/NextCloudPi)
-**Infrastructure Project**
+
 Self-hosted private cloud with SSL, 2FA, and full encryption on Raspberry Pi.
 `Linux` `SSL/TLS` `Self-Hosting`
 
 ---
 
 ### [🛡️DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
-**CyberSecurity Project** 
+
 Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberry Pi.
 `DNS` `Network Security` `Linux` `Raspberry Pi`
 
