@@ -7,23 +7,32 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 
 ## Projects & Work Demos
 
-### [:satellite:Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
-Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
-`NOKIA` `Power BI` `Data Insights` `Executive communication` `Investment recommendations`
-
----
-
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
-**Analytics Solutions Center | Jan 2026-Onwards**
+**Analytics Solutions Center**
 Enterprise executive level Power BI dashboards connected to Microsoft Business Central API v2.0 and Azure SQL. 
 `Power BI` `DAX` `Azure SQL` `Business Central` `API`
 
 ---
 
+## [:tokyo_tower: Network Insights Reporting Framework](https://github.com/abrarmalik2000/network-insights-reporting-framework/tree/main)
+**International Mobile Operators & Vendors**
+Developed a comprehensive regional mobile network intelligence 
+reporting framework covering 10 analytical domains — from 
+network configuration baseline through executive investment 
+recommendations for mobile operators.
+
+`Power BI` `GIS Mapping` `DPI Analytics` `AI & GPT Network Adoption` `Ookla Speedtest` `5G/4G/3G` 
+
 ### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)
-**Coalfire Systems Project | May–Aug 2026**
+**Coalfire Systems**
 Full-stack security dashboard for purple team engagement threat detection and deconfliction workflows.
 `Azure Devops` `Next.js` `Prisma` `PostgreSQL` `MITRE ATT&CK`
+
+---
+
+### [:satellite:Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
+Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
+`NOKIA` `Power BI` `Data Insights` `Executive communication` `Investment recommendations`
 
 ---
 
