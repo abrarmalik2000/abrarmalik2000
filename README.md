@@ -27,7 +27,7 @@ Full-stack security dashboard for purple team engagement threat detection and de
 
 ---
 
-### [🤖 ML Network Intrusion Detection](https://github.com/abrarmalik2000/ml-network-intrusion-detection)
+### [🤖 ML Network Intrusion Detection Analytics](https://github.com/abrarmalik2000/ml-network-intrusion-detection)
 **Data Analytics | 2026** 
 Binary classification for network intrusion detection using PyCaret on UNSW-NB15 benchmark dataset.
 `Python` `PyCaret` `pandas`
@@ -41,15 +41,15 @@ First dual mapping of China-nexus APT to MITRE ATT&CK and FiGHT frameworks. Orig
 
 ---
 
-### [☁️ Nextcloud on Raspberry Pi](https://github.com/abrarmalik2000/NextCloudPi)
-**Lab Infrastructure Project**
+### [☁️ Nextcloud](https://github.com/abrarmalik2000/NextCloudPi)
+**Infrastructure Project**
 Self-hosted private cloud with SSL, 2FA, and full encryption on Raspberry Pi.
 `Linux` `SSL/TLS` `Self-Hosting`
 
 ---
 
-### [🛡️ Pi-hole DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
-**Lab CyberSecurity Project** 
+### [🛡️DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
+**CyberSecurity Project** 
 Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberry Pi.
 `DNS` `Network Security` `Linux` `Raspberry Pi`
 
