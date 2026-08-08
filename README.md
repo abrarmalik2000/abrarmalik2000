@@ -8,7 +8,8 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 ## Projects & Work Demos
 
 
-<img width="90" height="63" alt="image" src="https://github.com/user-attachments/assets/6fe8747f-4cf3-4c70-b22f-751d5f17bde1" />
+<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/6fe8747f-4cf3-4c70-b22f-751d5f17bde1" />
+
 ### [Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
 **NOKIA**
 Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
