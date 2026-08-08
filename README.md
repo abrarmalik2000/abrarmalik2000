@@ -14,8 +14,6 @@ Data Analytics for Ookla speed test samples to generate insights for causes of l
 
 ---
 
-
-
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
 **Analytics Solutions Center | Jan 2026-Onwards**
 Enterprise executive level Power BI dashboards connected to Microsoft Business Central API v2.0 and Azure SQL. 
