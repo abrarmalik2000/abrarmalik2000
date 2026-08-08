@@ -9,7 +9,7 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
 
-Enterprise executive level Power BI dashboards connected to Microsoft Business Central API v2.0 and Azure SQL. 
+Enterprise executive level Power BI dashboards connected to Microsoft Business Central API v2.0 and Azure SQL.     
 `Power BI` `DAX` `Azure SQL` `Business Central` `API`
 
 ---
@@ -19,26 +19,26 @@ Enterprise executive level Power BI dashboards connected to Microsoft Business C
 Developed a comprehensive regional mobile network intelligence 
 reporting framework covering 11 analytical domains — from 
 network configuration baseline through executive investment 
-recommendations for mobile operators.
+recommendations for mobile operators.      
 
 `Power BI` `GIS Mapping` `DPI Analytics` `AI & GPT Network Adoption` `Ookla Speedtest` `5G/4G/3G` 
 
-### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)
+### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)     
 
-Full-stack security dashboard for purple team engagement threat detection and deconfliction workflows.
+Full-stack security dashboard for purple team engagement threat detection and deconfliction workflows.     
 `Azure Devops` `Next.js` `Prisma` `PostgreSQL` `MITRE ATT&CK`
 
 ---
 
-### [:satellite:Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
-Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
+### [:satellite:Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)     
+Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples     
 `NOKIA` `Power BI` `Data Insights` `Executive communication` `Investment recommendations`
 
 ---
 
 ### [🤖 ML Network Intrusion Detection Analytics](https://github.com/abrarmalik2000/ml-network-intrusion-detection)
 
-Binary classification for network intrusion detection using PyCaret on UNSW-NB15 benchmark dataset.
+Binary classification for network intrusion detection using PyCaret on UNSW-NB15 benchmark dataset.     
 `Python` `PyCaret` `pandas`
 
 ---
@@ -52,23 +52,23 @@ First dual mapping of China-nexus APT to MITRE ATT&CK and FiGHT frameworks. Orig
 
 ### [☁️ Nextcloud](https://github.com/abrarmalik2000/NextCloudPi)
 
-Self-hosted private cloud with SSL, 2FA, and full encryption on Raspberry Pi.
+Self-hosted private cloud with SSL, 2FA, and full encryption on Raspberry Pi.      
 `Linux` `SSL/TLS` `Self-Hosting`
 
 ---
 
 ### [🛡️DNS Sinkhole](https://github.com/abrarmalik2000/pihole-dns-sinkhole)
 
-Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberry Pi.
+Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberry Pi.      
 `DNS` `Network Security` `Linux` `Raspberry Pi`
 
 ## Tech Stack
 
-**Data:** Power BI · Tableau · PostgreSQL · Microsoft SQL · DuckDB
-**PM Tools:** Azure DevOps · MS Project · Confluence ·Code spaces
-**Development:** Python · Prisma with Typescript
-**Cyber Security:** YARA · Sigma · MITRE ATT&CK · FiGHT Framework
-**Cloud Fundamentals:** Microsoft Azure · AWS
+**Data:** Power BI · Tableau · PostgreSQL · Microsoft SQL · DuckDB     
+**PM Tools:** Azure DevOps · MS Project · Confluence ·Code spaces    
+**Development:** Python · Prisma with Typescript   
+**Cyber Security:** YARA · Sigma · MITRE ATT&CK · FiGHT Framework   
+**Cloud Fundamentals:** Microsoft Azure · AWS    
 
 ## Education
 **M.S. Management Information Systems** — Utah State University (Dec 2026)  
