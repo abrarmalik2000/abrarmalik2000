@@ -5,7 +5,18 @@
 Technology Manager & data analytics professional with 20+ years leading complex telecom programs with global vendors like Nokia, 
 & Ericsson across 6+ countries. Diverse expereince in Data & Business analytics delivering business insights and value to leadership. Currently completing **MMIS at Utah State University** (graduating December 2026) with concentrations in Data Analytics and Cybersecurity. Currently working on business projects in data analytics & Cybersecurity at **Coalfire** building a dashboard to automate purple team engagements and developing Power BI dashboards for Lee's marketplace executive management for daily data insights
 
-## Projects
+## Projects & Work Demos
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ad0619d-2dd3-42e6-97ee-24faf6b3b9ac" />
+
+### [Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
+**NOKIA**
+Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
+`Power BI` `Data Insights` `Executive communication` `Investment recommendations`
+
+---
+
+
 
 ### [📊 Lee's Marketplace Enterprise Analytics](https://github.com/abrarmalik2000/Lees-Marketplace-Analytics)
 **Analytics Solutions Center | Jan 2026-Onwards**
