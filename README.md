@@ -23,7 +23,7 @@ Enterprise executive level Power BI dashboards connected to Microsoft Business C
 ### [🔐 Ultraviolet — Purple Team Dashboard](https://github.com/abrarmalik2000/Coalfire-Project)
 **Coalfire Systems Project | May–Aug 2026**
 Full-stack security dashboard for purple team engagement threat detection and deconfliction workflows.
-`Next.js` `Prisma` `PostgreSQL` `MITRE ATT&CK`
+`Azure Devops` `Next.js` `Prisma` `PostgreSQL` `MITRE ATT&CK`
 
 ---
 
@@ -37,7 +37,7 @@ Binary classification for network intrusion detection using PyCaret on UNSW-NB15
 ### [🕵️ LIMINAL PANDA Threat Intelligence](https://github.com/abrarmalik2000/Liminal-Panda-Threat-Intelligence-Research)
 **Threat Intelligence Report | 2026**
 First dual mapping of China-nexus APT to MITRE ATT&CK and FiGHT frameworks. Original YARA/Sigma detection rules.
-`YARA` `Sigma` `MITRE ATT&CK` `FiGHT` `Threat Intelligence`
+`YARA` `Sigma` `MITRE ATT&CK & FiGHT` `Threat Intelligence`
 
 ---
 
@@ -56,8 +56,8 @@ Network-wide DNS sinkhole blocking malicious domains at DNS level using Raspberr
 ## Tech Stack
 
 **Data:** Power BI · Tableau · PostgreSQL · Microsoft SQL · DuckDB
-**PM Tools:** Azure DevOps · MS Project · Confluence
-**Development:** Python · Prisma
+**PM Tools:** Azure DevOps · MS Project · Confluence ·Code spaces
+**Development:** Python · Prisma with Typescript
 **Cyber Security:** YARA · Sigma · MITRE ATT&CK · FiGHT Framework
 **Cloud Fundamentals:** Microsoft Azure · AWS
 
