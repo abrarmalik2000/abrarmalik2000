@@ -8,9 +8,8 @@ Technology Manager & data analytics professional with 20+ years leading complex 
 ## Projects & Work Demos
 
 ### [:satellite:Ookla Speed Test Analytics](https://github.com/abrarmalik2000/Ookla_SpeedTest_Analytics/tree/main)
-**NOKIA**
 Data Analytics for Ookla speed test samples to generate insights for causes of low speed samples
-`Power BI` `Data Insights` `Executive communication` `Investment recommendations`
+`NOKIA` `Power BI` `Data Insights` `Executive communication` `Investment recommendations`
 
 ---
 
