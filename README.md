@@ -2,7 +2,7 @@
 ### Data & Business Analytics | NOKIA . Ericsson | 5G/AI/ML | Technology Strategy | Cyber Security
 
 ## About Me
-Technology Manager & data analytics professional with 20+ years leading complex telecom programs with global vendors like Nokia, 
+Data analytics professional with 20+ years leading complex telecom programs with global vendors like Nokia, 
 & Ericsson across 6+ countries. Diverse expereince in Data & Business analytics delivering business insights and value to leadership. Currently completing **MMIS at Utah State University** (graduating December 2026) with concentrations in Data Analytics and Cybersecurity. Currently working on business projects in data analytics & Cybersecurity at **Coalfire** building a dashboard to automate purple team engagements and developing Power BI dashboards for Lee's marketplace executive management for daily data insights
 
 ## Projects & Work Demos
