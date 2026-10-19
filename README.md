@@ -1,5 +1,5 @@
 # Abrar Malik
-### Technology Program Manager | Data & Business Analytics | NOKIA . Ericsson | 5G/AI/ML | Technology Strategy | Cyber Security
+### Data & Business Analytics | NOKIA . Ericsson | 5G/AI/ML | Technology Strategy | Cyber Security
 
 ## About Me
 Technology Manager & data analytics professional with 20+ years leading complex telecom programs with global vendors like Nokia, 
